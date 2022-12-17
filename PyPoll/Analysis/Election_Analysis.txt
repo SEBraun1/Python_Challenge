@@ -1,0 +1,8 @@
+  Election Analysis
+--------------------------------
+Total votes: 369711
+Candidates: dict_keys(['Charles Casper Stockham', 'Diana DeGette', 'Raymon Anthony Doane'])
+DeGette won: 272892 | 73.81224794501652%
+Stockham won: 85213 | 23.04854332167558%
+Doane won: 11606 | 3.1392087333079077%)
+DeGette wins.
